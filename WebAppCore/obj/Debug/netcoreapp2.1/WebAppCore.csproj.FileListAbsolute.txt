@@ -1,0 +1,15 @@
+D:\myspace\NetCore\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.1\WebAppCore.csproj.CoreCompileInputs.cache
+D:\myspace\NetCore\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.1\WebAppCore.AssemblyInfoInputs.cache
+D:\myspace\NetCore\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.1\WebAppCore.AssemblyInfo.cs
+D:\myspace\NetCore\WebAppCore\WebAppCore\bin\Debug\netcoreapp2.1\WebAppCore.deps.json
+D:\myspace\NetCore\WebAppCore\WebAppCore\bin\Debug\netcoreapp2.1\WebAppCore.runtimeconfig.json
+D:\myspace\NetCore\WebAppCore\WebAppCore\bin\Debug\netcoreapp2.1\WebAppCore.runtimeconfig.dev.json
+D:\myspace\NetCore\WebAppCore\WebAppCore\bin\Debug\netcoreapp2.1\WebAppCore.dll
+D:\myspace\NetCore\WebAppCore\WebAppCore\bin\Debug\netcoreapp2.1\WebAppCore.pdb
+D:\myspace\NetCore\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.1\WebAppCore.csprojAssemblyReference.cache
+D:\myspace\NetCore\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.1\WebAppCore.RazorAssemblyInfo.cache
+D:\myspace\NetCore\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.1\WebAppCore.RazorAssemblyInfo.cs
+D:\myspace\NetCore\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.1\WebAppCore.RazorTargetAssemblyInfo.cache
+D:\myspace\NetCore\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.1\WebAppCore.dll
+D:\myspace\NetCore\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.1\WebAppCore.pdb
+D:\myspace\NetCore\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
